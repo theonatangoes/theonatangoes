@@ -95,6 +95,7 @@ Estou em constante evolução, acompanhando tendências, estudando comportamento
 
 <br/>
 <br/>
+
 ### 📊 Estatísticas
 
 <p>

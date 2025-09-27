@@ -23,6 +23,13 @@ Estou em constante evolução, acompanhando tendências, estudando comportamento
             src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&labelColor=E4405F"
         />
     </a>
+    <a href="mailto:theonatan20@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Entre em contato por E-mail" 
+            src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/theonatangoes?tab=followers">
         <img 
             alt="Seguidores do GitHub" 
@@ -91,6 +98,22 @@ Estou em constante evolução, acompanhando tendências, estudando comportamento
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://images.icon-icons.com/2415/PNG/512/git_original_logo_icon_146509.png"
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png"
 />
 
 <br/>

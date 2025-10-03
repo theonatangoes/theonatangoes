@@ -73,7 +73,7 @@ Estou em constante evolução, acompanhando tendências, estudando comportamento
     title="Framer"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/framer-color-icon.png" 
+    src="https://images.icon-icons.com/2699/PNG/512/framer_logo_icon_169149.png" 
 />
 <img 
     align="left" 

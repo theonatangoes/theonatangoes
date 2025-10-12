@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Theo Natan, ou Desenvolvedor Front-end e UX/UI Designer com foco em criar experiências digitais que sejam intuitivas, funcionais e visualmente coerentes. Tenho como principal objetivo unir o olhar de design com a lógica do desenvolvimento, entregando soluções que façam sentido para o usuário e atendam às necessidades do projeto de forma eficaz.
+Me chamo Theo Natan, sou Desenvolvedor Front-end e UX/UI Designer com foco em criar experiências digitais que sejam intuitivas, funcionais e visualmente coerentes. Tenho como principal objetivo unir o olhar de design com a lógica do desenvolvimento, entregando soluções que façam sentido para o usuário e atendam às necessidades do projeto de forma eficaz.
 
 Atuo desde a concepção da interface até a sua implementação, sempre buscando equilíbrio entre estética, usabilidade e performance. Valorizo processos colaborativos, feedbacks constantes e a melhoria contínua de cada entrega.
 

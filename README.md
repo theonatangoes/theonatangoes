@@ -47,10 +47,10 @@ Estou em constante evolução, acompanhando tendências, estudando comportamento
   <img height="40" width="40" src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-  <img height="40" width="40" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   <img height="40" width="40" src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress" />
 </div>

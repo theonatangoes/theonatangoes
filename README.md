@@ -41,85 +41,23 @@ Estou em constante evolução, acompanhando tendências, estudando comportamento
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Framer" 
-    title="Framer"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/2699/PNG/512/framer_logo_icon_169149.png" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind CSS" 
-    title="Tailwind CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Wordpress" 
-    title="Wordpress"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/2415/PNG/512/git_original_logo_icon_146509.png"
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png"
-/>
-
+<div style="display: inline_block;"><br>
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img height="40" width="40" src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress" />
+</div>
 <br/>
 <br/>
 
-### 🚀 Contribuições
+### Contribuições
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theonatangoes/theonatangoes/output/github-contribution-grid-snake-dark.svg">
@@ -127,7 +65,7 @@ Estou em constante evolução, acompanhando tendências, estudando comportamento
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theonatangoes/theonatangoes/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
